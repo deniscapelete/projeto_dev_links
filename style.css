@@ -40,7 +40,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%x;
+  max-width: 588px;
   margin: 56px auto 0px; /* top rigth bottom left - no exemplo como só tem 3 o do meio vale para as duas laterais */
   padding: 0 24px;
 }
